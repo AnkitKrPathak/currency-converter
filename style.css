@@ -19,6 +19,10 @@ body {
     min-width: 30vw;
 }
 
+.container h2 {
+    color: rgb(12, 36, 108);
+}
+
 form .amount {
     margin-top: 1.5rem;
 }
